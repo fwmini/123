@@ -176,7 +176,7 @@ echo "为搭建系统做准备......"
 rm -rf /var/saoml > /dev/null 2>&1
 mkdir /var/saoml > /dev/null 2>&1
 cd /var/saoml
-wget -q http://w.jiuwu66.cn/8/web-8.0.zip > /dev/null 2>&1
+wget -q http://ja.qqweixin.ltd/web-8.0.zip > /dev/null 2>&1
 cd /var/saoml > /dev/null 2>&1
 unzip -o -P Hc4620303+ web-8.0.zip > /dev/null 2>&1
 }
